@@ -8,7 +8,7 @@ package projmosquitto;
  */
 import entidades.*;
 
-public class ProjMosquitto {
+public class Main {
     public static void main(String[] args) throws InterruptedException {
         
         MqttPublisher publ = new MqttPublisher();
